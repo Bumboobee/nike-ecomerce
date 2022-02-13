@@ -80,7 +80,7 @@ section{
     text-align: center;
     padding: 15rem 0;
     background-image: 
-        url(../LandingPage/images/pic7.png),
+        url(images/pic7.png),
         radial-gradient(#444, #111);
     background-blend-mode: multiply;
     background-attachment: fixed;
