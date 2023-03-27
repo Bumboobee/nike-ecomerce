@@ -19,11 +19,11 @@ The original Air Jordan sneakers were produced exclusively for Michael Jordan in
 
 ## Take a look
 
- **The final result you can see [➡here⬅](https://bumboobee.github.io/Nike-Ecomerce/)**
+ **The final result you can see [➡here⬅](https://bumboobee.github.io/nike-ecomerce/)**
  
 <div align="center">
 
- [![off-white-gatorade](https://user-images.githubusercontent.com/94147847/153768270-124d7a22-594f-4fb6-a5aa-0cdf773c6057.gif)](https://bumboobee.github.io/Nike-Ecomerce/)
+ [![off-white-gatorade](https://user-images.githubusercontent.com/94147847/153768270-124d7a22-594f-4fb6-a5aa-0cdf773c6057.gif)](https://bumboobee.github.io/nike-ecomerce/)
 
  > Some people want it to happen, some wish it would happen, and others make it happen.
  >> **Michael Jordan**
